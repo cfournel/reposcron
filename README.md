@@ -14,3 +14,7 @@ Just insert that script into a crontab :
 ``` bash
 */10 * * * * /var/script/reposCron.sh   # Will run the script every 10 minutes
 ```
+
+* features *
+
+Feel free to ask for new features or pull request it
