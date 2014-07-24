@@ -7,7 +7,7 @@ The script need a path defined to browse it recursively and try to update each s
 
 It allows workflow system such as Active Collab to browse project repositories ( this tool doesn't sync remote repositories )
 
-* usage *
+* usage
 
 Just insert that script into a crontab :
 
@@ -15,6 +15,6 @@ Just insert that script into a crontab :
 */10 * * * * /var/script/reposCron.sh   # Will run the script every 10 minutes
 ```
 
-* features *
+* features
 
 Feel free to ask for new features or pull request it
